@@ -1,6 +1,7 @@
 import { Navigation } from "@/components/Navigation";
 import { ProfileImage } from "@/components/ProfileImage";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { Footer } from "@/components/Footer";
 
 const Index = () => {
 
@@ -118,6 +119,7 @@ const Index = () => {
           </section>
         </div>
       </main>
+      <Footer />
     </div>
   );
 };
