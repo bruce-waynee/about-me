@@ -3,7 +3,7 @@ import { ProfileImage } from "@/components/ProfileImage";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { Footer } from "@/components/Footer";
 
-const Index = () => {
+const About = () => {
 
   const isMobile = useIsMobile();
   return (
@@ -124,5 +124,5 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default About;
  
