@@ -8,7 +8,7 @@ export function Footer() {
             href="https://github.com/bruce-waynee/about-me" 
             target="_blank"
           >
-            Source
+            Sourceeee
           </a>
         </div>
       </footer>
