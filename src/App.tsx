@@ -14,7 +14,7 @@ const App = () => (
       <Toaster />
       <BrowserRouter>
         <Routes>
-          <Route path="/about" element={<Index />} />
+          <Route path="/" element={<Index />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
