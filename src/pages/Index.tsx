@@ -111,7 +111,7 @@ const Index = () => {
                 <div className="flex items-start space-x-3">
                   <span className="text-muted-foreground mt-2">–</span>
                   <p>
-                  Routinely use Jira and Confluence for project planning and documentation workflows.
+                  Routinely use Jira and Confluence for project planning and documentation workflows
                   </p>
                 </div>
               </div>
