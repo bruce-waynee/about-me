@@ -4,8 +4,9 @@ export function Footer() {
         <div className="container max-w-2xl mx-auto flex justify-between items-center text-sm text-muted-foreground font-mono">
           <span>Muhamad Ali Mousa</span>
           <a 
-            href="https://github.com/bruce-waynee/about-me" 
             className="hover:text-foreground transition-colors underline"
+            href="https://github.com/bruce-waynee/about-me" 
+            target="_blank"
           >
             Source
           </a>
