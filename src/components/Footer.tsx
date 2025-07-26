@@ -10,6 +10,7 @@ export function Footer() {
           >
             Source
           </a> */}
+          <span>26.07.2025</span>
         </div>
       </footer>
     );
