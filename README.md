@@ -8,7 +8,7 @@ This is a simple React application built using [Vite](https://vitejs.dev/), a fa
 
 
 ```bash
-git clone https://github.com/frontio-ai/vite-template.git
+git clone https://github.com/bruce-waynee/about-me.git
 ```
 
 2. **Install dependencies**
