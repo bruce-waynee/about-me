@@ -32,7 +32,7 @@ export function LinkedInButton() {
         </TooltipTrigger>
 
         <TooltipContent side="bottom">
-          <span>LinkedIn</span>
+          <span>LinkedIn</span> 
         </TooltipContent>
       </Tooltip>
     </TooltipProvider>
