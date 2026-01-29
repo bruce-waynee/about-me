@@ -1,5 +1,4 @@
-
-import { LinkedInButton } from "./LinkedInButton";
+import { GitHubButton } from "./GitHubButton";
 import { ThemeToggle } from "./ThemeToggle";
 
 export function Navigation() {
@@ -10,7 +9,7 @@ export function Navigation() {
         </div>
         
         <nav className="flex items-center space-x-1">
-          <LinkedInButton />
+          <GitHubButton />
           <ThemeToggle />
         </nav>
    

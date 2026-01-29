@@ -1,8 +1,13 @@
-import { Linkedin } from "lucide-react";
+import { Github } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger,} from "@/components/ui/tooltip";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
 
-export function LinkedInButton() {
+export function GitHubButton() {
   return (
     <TooltipProvider delayDuration={200}>
       <Tooltip>
@@ -14,17 +19,18 @@ export function LinkedInButton() {
             className="group rounded-full h-9 w-9 hover:bg-accent transition-colors"
           >
             <a
-              href="https://www.linkedin.com/in/muhamad-ali-mousa-6313413a8"
+              href="https://github.com/bruce-waynee"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="LinkedIn profile"
+              aria-label="GitHub profile"
             >
-              <Linkedin
+              <Github
                 className="
                   h-4 w-4
                   text-foreground
                   transition-all
-                  group-hover:text-[#0A66C2]
+                  group-hover:text-[#181717]
+                  dark:group-hover:text-white
                 "
               />
             </a>
@@ -32,7 +38,7 @@ export function LinkedInButton() {
         </TooltipTrigger>
 
         <TooltipContent side="bottom">
-          <span>LinkedIn</span>
+          <span>GitHub</span>
         </TooltipContent>
       </Tooltip>
     </TooltipProvider>
