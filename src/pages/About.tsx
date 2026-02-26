@@ -67,8 +67,8 @@ const About = () => {
 
                 <p>
                   AI and automation are at the core of how I think about software, 
-                  not as add-ons, but as fundamental tools to make processes smarter a
-                  nd more impactful. I actively use tools like ChatGPT, Claude, Perplexity, 
+                  not as add-ons, but as fundamental tools to make processes smarter 
+                  and more impactful. I actively use tools like ChatGPT, Claude, Perplexity, 
                   and Gemini daily to optimize workflows, solve problems faster, 
                   and develop new ideas. I also experiment with n8n to build AI-powered 
                   automation workflows and have hands-on experience integrating LLM APIs 
