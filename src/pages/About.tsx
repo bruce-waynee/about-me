@@ -66,13 +66,13 @@ const About = () => {
                 </p>
 
                 <p>
-                  I’m also deeply curious about automation and artificial intelligence,
-                  especially how they can make everyday work smarter and more
-                  efficient. I actively use tools like ChatGPT, GitHub Copilot,
-                  Perplexity, and Gemini to support learning, problem-solving, and
-                  rapid prototyping. In my free time, I experiment with workflow
-                  automation using n8n, aiming to reduce repetitive tasks and
-                  streamline processes.
+                  AI and automation are at the core of how I think about software, 
+                  not as add-ons, but as fundamental tools to make processes smarter a
+                  nd more impactful. I actively use tools like ChatGPT, Claude, Perplexity, 
+                  and Gemini daily to optimize workflows, solve problems faster, 
+                  and develop new ideas. I also experiment with n8n to build AI-powered 
+                  automation workflows and have hands-on experience integrating LLM APIs 
+                  from OpenAI, Anthropic, and Google into real applications."
                 </p>
 
                 <p>
