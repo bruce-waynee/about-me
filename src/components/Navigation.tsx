@@ -10,7 +10,7 @@ export function Navigation() {
         </div>
         
         <nav className="flex items-center space-x-1">
-          <LinkedInButton />
+          {/* <LinkedInButton /> */}
           <GitHubButton />
           <ThemeToggle />
         </nav>
